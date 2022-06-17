@@ -1,6 +1,6 @@
 .hero{
     background-image: url(Images/bg-hero-desktop.svg);
-    height: 100vh;
+    height: 100%;
     opacity: 1.5;
     padding-bottom: 80px;
 }
